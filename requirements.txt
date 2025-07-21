@@ -1,0 +1,11 @@
+transformers
+tqdm
+pandas
+numpy
+qwen_vl_utils
+pillow
+torch
+scipy
+scikit-learn
+datasets
+spacy
