@@ -33,7 +33,7 @@ from qwen_vl_utils import process_vision_info
 import urllib.request
 
 # Add your Hugging Face Access Token here
-hf_token = "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"
+hf_token = "YOUR_HF_TOKEN"
 
 # Mapping of model names to their identifiers for LLMs
 LLM_MODELS = {
