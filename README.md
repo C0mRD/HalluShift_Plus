@@ -8,7 +8,7 @@ This repository contains the official implementation of **HalluShift++**, a comp
 
 ## 🚀 Key Features
 
-- **Multi-Modal Support**: Works with both Vision-Language Models (VLMs) and Large Language Models (LLMs)
+- **Multi-Modal Support**: Works with both Multimodal Large Language Models (MLLMs) and Large Language Models (LLMs)
 - **Hierarchical Classification**: Distinguishes between Category, Attribute, and Relation hallucinations
 - **Advanced Feature Engineering**: 74 sophisticated features including perplexity, attention patterns, and semantic consistency
 - **Multiple Model Support**: Tested with 10+ state-of-the-art LLM and MLLMs
