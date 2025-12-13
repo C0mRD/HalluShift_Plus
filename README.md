@@ -6,6 +6,8 @@
 
 This repository contains the official implementation of **HalluShift++**, a comprehensive framework for detecting and classifying semantic hallucinations in MLLMs.
 
+![Hallushift++ Method Image](hallushift++_teasure.png)
+
 ## 🚀 Key Features
 
 - **Multi-Modal Support**: Works with both Multimodal Large Language Models (MLLMs) and Large Language Models (LLMs)
