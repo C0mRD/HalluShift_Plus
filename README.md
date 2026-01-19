@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the official implementation of **HalluShift++**, a comprehensive framework for detecting and classifying semantic hallucinations in MLLMs.
+This repository contains the source code of the ICVGIP 2025 Oral paper [HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs](https://arxiv.org/abs/2512.07687) by Sujoy Nath, Arkaprabha Basu, Sharanya Dasgupta, Swagatam Das.
 
 ![Hallushift++ Method Image](hallushift++_teasure.png)
 
@@ -25,7 +25,7 @@ This repository contains the official implementation of **HalluShift++**, a comp
 - [Training Classifiers](#training-classifiers)
 - [Evaluation](#evaluation)
 - [Project Structure](#project-structure)
-- [Citation](#citation)
+- [Citation](##citation)
 
 ## 🛠️ Installation
 
@@ -373,3 +373,17 @@ chmod +x run_cls.sh
 ---
 
 **Note**: This framework is designed for research purposes. For production deployment, additional validation and safety measures are recommended.
+
+## Citation
+If you find this code or paper useful, please cite our work:
+```
+@misc{nath2025hallushiftbridginglanguagevision,
+      title={HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs}, 
+      author={Sujoy Nath and Arkaprabha Basu and Sharanya Dasgupta and Swagatam Das},
+      year={2025},
+      eprint={2512.07687},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2512.07687}, 
+}
+```
